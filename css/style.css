@@ -767,15 +767,23 @@ section {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    flex-direction: column;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    /* gap: 2rem; */
+    gap: 2rem;
     width: 50%;
 }
 
 .contact form {
     border-radius: 5%;
     box-shadow: 5px 5px 10px var(--light-color);
+}
+
+.contact form .box__info{
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px var(--light-color);
+    background-color: var(--black);
+    color: var(--light-bg);
 }
 
 
