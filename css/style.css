@@ -957,6 +957,11 @@ section {
         display: block;
         margin: 2rem;
     }
+
+    .logo_img {
+        height: 35%;
+        width: 35%;
+    }
 }
 
 @media (max-width: 768px) {
@@ -976,6 +981,11 @@ section {
     }
     .home .slide .content h3 {
         font-size: 3rem;
+    }
+
+    .logo_img {
+        height: 35%;
+        width: 35%;
     }
 }
 
