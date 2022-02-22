@@ -986,6 +986,11 @@ section {
     .about .row .content h3 {
         font-size: 2.5rem;
     }
+
+    .logo_img {
+        height: 15%;
+        width: 15%;
+    }
 }
 
 
