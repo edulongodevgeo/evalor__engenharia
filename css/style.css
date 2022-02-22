@@ -786,9 +786,10 @@ section {
     font-weight: bold;
     color: var(--light-bg);
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 2rem;
+    gap: 1rem;
 }
 
 
