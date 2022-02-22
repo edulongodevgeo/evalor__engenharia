@@ -782,6 +782,7 @@ section {
 .box__info{
     margin-top: 2rem;
     font-family: 'Roboto', sans-serif;
+    font-size: 1,7rem;
     font-weight: bold;
     color: var(--light-bg);
     display: flex;
