@@ -780,9 +780,9 @@ section {
 }
 
 .box__info{
-    border-radius: 5%;
-    box-shadow: 5px 5px 10px var(--light-color);
-    background-color: var(--black);
+    margin-top: 2rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
     color: var(--light-bg);
     display: flex;
     flex-direction: column;
