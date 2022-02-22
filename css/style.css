@@ -779,11 +779,15 @@ section {
     box-shadow: 5px 5px 10px var(--light-color);
 }
 
-.contact form .box__info{
+.box__info{
     border-radius: 5%;
     box-shadow: 5px 5px 10px var(--light-color);
     background-color: var(--black);
     color: var(--light-bg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 
